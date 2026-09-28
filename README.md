@@ -35,6 +35,13 @@ The app is written in C# and compiled with .NET 9 Native AOT. It runs directly a
 
 ## Features
 
+<div align="center">
+
+
+ <img width="386" height="477" alt="image" src="https://github.com/user-attachments/assets/abcb0dbc-2dc2-4b88-873a-0559cebbd532" />
+
+</div>
+
 - Native AOT binary: Starts instantly and uses zero background memory after exiting.
 - Fast device disable: Turns off unwanted Sonar endpoints in parallel.
 - Startup check: Verifies that SteelSeries GG did not recreate endpoints while Windows was booting.
@@ -43,7 +50,7 @@ The app is written in C# and compiled with .NET 9 Native AOT. It runs directly a
 - Setup wizard: Lets you pick which virtual devices to hide and which to keep.
 - Windows startup: Adds itself to startup with one click during setup.
 
-  <img width="320" height="240" alt="0928" src="https://github.com/user-attachments/assets/e32a79c3-1412-447a-a6bb-c3bb4a177d7e" /> <img width="475" height="267" alt="image" src="https://github.com/user-attachments/assets/85c504bd-80a3-417c-ac96-c6540b12afb1" />
+  <img width="320" height="240" alt="0928" src="https://github.com/user-attachments/assets/e32a79c3-1412-447a-a6bb-c3bb4a177d7e" /> <img width="475" height="267" alt="image" src="https://github.com/user-attachments/assets/85c504bd-80a3-417c-ac96-c6540b12afb1" /> 
 
 
 

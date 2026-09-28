@@ -43,6 +43,8 @@ The app is written in C# and compiled with .NET 9 Native AOT. It runs directly a
 - Setup wizard: Lets you pick which virtual devices to hide and which to keep.
 - Windows startup: Adds itself to startup with one click during setup.
 
+  <img width="320" height="240" alt="0928" src="https://github.com/user-attachments/assets/e32a79c3-1412-447a-a6bb-c3bb4a177d7e" />
+
 ---
 
 ## Installation

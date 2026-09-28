@@ -1,0 +1,6 @@
+C:\REAL\PROJECTS\cremey\bin\Release\net9.0-windows\win-x64\publish\assets\cleared.png
+C:\REAL\PROJECTS\cremey\bin\Release\net9.0-windows\win-x64\publish\assets\logo.ico
+C:\REAL\PROJECTS\cremey\bin\Release\net9.0-windows\win-x64\publish\assets\silly.jpg
+C:\REAL\PROJECTS\cremey\bin\Release\net9.0-windows\win-x64\publish\CremeyConfig.txt
+C:\REAL\PROJECTS\cremey\bin\Release\net9.0-windows\win-x64\publish\SoundVolumeView.exe
+C:\REAL\PROJECTS\cremey\bin\Release\net9.0-windows\win-x64\publish\Cremey.exe
